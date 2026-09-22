@@ -1,0 +1,11 @@
+{
+  "tokens": [
+    {"token": "ops-demo-token", "name": "指挥中心值班长", "role": "operations"},
+    {"token": "transport-demo-token", "name": "交通协调值班员", "role": "transport"},
+    {"token": "venue-demo-token", "name": "场馆值守员", "role": "venue"},
+    {"token": "culture-demo-token", "name": "文旅调度员", "role": "culture"},
+    {"token": "hotel-demo-token", "name": "江湾大酒店前台", "role": "partner", "partner_id": "p_hotel_jiangwan", "kind": "hotel"},
+    {"token": "shuttle-demo-token", "name": "顺达接驳调度", "role": "partner", "partner_id": "p_shuttle_shunda", "kind": "shuttle"},
+    {"token": "attraction-demo-token", "name": "江城文旅运营", "role": "partner", "partner_id": "p_attr_jiangcheng", "kind": "attraction"}
+  ]
+}

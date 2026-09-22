@@ -10,3 +10,8 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 运行期数据与本地岗位令牌（含真实令牌的 tokens.json 不入库）
+/data/
+/config/tokens.json
+*.jsonl
